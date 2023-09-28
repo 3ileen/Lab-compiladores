@@ -1,1 +1,1 @@
-# Lab-compiladores
+# Lab-Paralela
